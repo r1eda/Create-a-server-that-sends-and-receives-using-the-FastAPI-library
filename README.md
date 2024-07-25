@@ -1,0 +1,3 @@
+# Creating a Server That Sends and Receives Data Using the FastAPI Library
+
+This guide demonstrates how to create a server using the FastAPI library, a modern, fast web framework for building APIs with Python. It covers setting up a basic FastAPI application, handling GET and POST requests, and running the server with Uvicorn. You will learn how to create endpoints that can send and receive data and explore automatically generated interactive API documentation.
